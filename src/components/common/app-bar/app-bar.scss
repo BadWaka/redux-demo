@@ -1,0 +1,14 @@
+// 引入颜色文件
+@import "../color.scss";
+
+.app-bar {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  background: $blue500;
+}
+
+.title {
+  color: #fff;
+  padding-left: 16px;
+}

@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/**
+  全局CSS
+ */
+@import url(reset.css);
+@import url(../components/common/font/material-icons.css);

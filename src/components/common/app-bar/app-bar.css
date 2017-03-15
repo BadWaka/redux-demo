@@ -1,0 +1,9 @@
+.app-bar {
+  display: flex;
+  align-items: center;
+  height: 48px;
+  background: #2196f3; }
+
+.title {
+  color: #fff;
+  padding-left: 16px; }
